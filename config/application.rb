@@ -18,5 +18,7 @@ module RawgWrapper
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    config.api_only = true
+    config.token = ENV['rawg_secret_token']
   end
 end
