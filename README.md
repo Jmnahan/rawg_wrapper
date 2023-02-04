@@ -10,6 +10,7 @@ Api-wrapper activity for Avion School
 
  * rest-client 1.8.0
 
+
 ## Sample Usage
 
 client.rb will be the one responsible on calling and passing http_method and endpoints to request.rb
