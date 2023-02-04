@@ -10,6 +10,7 @@ Api-wrapper activity for Avion School
 
  * rest-client 1.8.0
  * dotenv-rails 2.1.1
+ * rspec-rails 3.4.2
 
 ## Sample Usage
 
